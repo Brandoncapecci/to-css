@@ -9,7 +9,7 @@ The `toCss` expects camelcased keys and will convert them to valid CSS hyphen-ca
 ## Usage
 
 ```ts
-import { toCss } from "https://deno.land/x/toCss/mod.ts";
+import { toCss } from "https://deno.land/x/to_css/mod.ts";
 const componentStyles = {
     backgroundColor: 'red',
     height: '20px',
