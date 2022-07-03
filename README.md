@@ -1,11 +1,11 @@
 # `to_css`
-Convert plain javascript objects to CSS for inline styling.
+Deno Module to convert plain javascript objects to CSS for inline styling.
 
 [![tag](https://img.shields.io/github/tag/brandoncapecci/to-css.svg)](https://github.com/brandoncapecci/to-css)
 [![license](https://img.shields.io/github/license/brandoncapecci/to-css.svg)](https://github.com/brandoncapecci/to-css)
 [![deno doc](https://doc.deno.land/badge.svg)](https://doc.deno.land/https/deno.land/x/csv/mod.ts)
 
-# Description 
+# Full Description 
 
 This utility intended to be used with the [Deno](https://deno.land/) runtime.
 

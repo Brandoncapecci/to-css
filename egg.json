@@ -1,0 +1,11 @@
+{
+    "name": "to_css",
+    "description": "🦕 module to convert plain javascript objects to CSS for inline styling",
+    "homepage": "https://github.com/brandoncapecci/to-css",
+    "files": [
+        "./**/*.ts",
+        "README.md",
+        "LICENSE"
+    ],
+    "entry": "./mod.ts"
+}
